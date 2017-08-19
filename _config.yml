@@ -1,0 +1,30 @@
+safe: false
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
+title: "Nahid Mahamud Hridoy"
+description: "Nahid Mahamud Hridoy's Personal Blog"
+baseurl: "/hri-blog/"
+url: "https://nahid-hridoy.github.io" # replace by your site's url
+twitter_username: Sherlock_Hridoy
+github_username:  nahid-hridoy # (your name)
+accent: "#f7f7e6" # accent color for blog column
+
+author: "Nahid Hridoy"
+address: "Mirpur-2, <br>Your Dhaka, Bangladesh"
+email: "nahid_hridoy@outlook.com"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# language settings
+isolang: en
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
